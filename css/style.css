@@ -1,0 +1,30 @@
+
+            .p{
+                background-color: blue;
+                text-align: center;
+                color: white;
+                
+            }
+            .h1{
+                background-color: aqua;
+                text-align: center;
+                color: white;
+                padding-top: 70px 70px 70px 70px;
+
+                margin: 30px;
+                margin-right: 30px;
+                margin-top: 30px;
+                margin-left: 30px;
+            }
+  
+            #sample-id-selector{
+                background-color: red;
+                text-align: center;
+                font-size: larger;
+            }
+            body{
+                background-image: url(../css/img/wlid.jpg);
+                background-size: cover;
+                background-repeat: no-repeat;
+                background: fixed;
+            }
